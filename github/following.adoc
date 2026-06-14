@@ -1,3 +1,5 @@
+= Following
+
 * https://github.com/git
 * https://github.com/memcached
 * https://github.com/mongodb
@@ -19,10 +21,12 @@
 * https://github.com/FFmpeg
 * https://github.com/wxWidgets
 * https://github.com/freebsd
+* https://github.com/haiku
 * https://github.com/openbsd
 * https://github.com/NetBSD
 * https://github.com/ceph
 * https://github.com/torvalds
+* https://github.com/reactos
 * https://github.com/arduino-libraries
 * https://github.com/fpc
 * https://github.com/gitlabhq
@@ -52,6 +56,7 @@
 * https://github.com/lua
 * https://github.com/openssh
 * https://github.com/system76
+* https://github.com/HelenOS
 * https://github.com/RIOT-OS
 * https://github.com/ValveSoftware
 * https://github.com/asciidoctor
@@ -87,6 +92,7 @@
 * https://github.com/coreboot
 * https://github.com/crystal-lang
 * https://github.com/gogs
+* https://github.com/seL4
 * https://github.com/LibVNC
 * https://github.com/chapel-lang
 * https://github.com/AdaCore
@@ -121,7 +127,10 @@
 * https://github.com/scylladb
 * https://github.com/NetworkManager
 * https://github.com/itchio
+* https://github.com/redox-os
+* https://github.com/littlekernel
 * https://github.com/AOMediaCodec
+* https://github.com/hermit-os
 * https://github.com/curl
 * https://github.com/llvm
 * https://github.com/tree-sitter
@@ -151,12 +160,14 @@
 * https://github.com/code-saturne
 * https://github.com/netwide-assembler
 * https://github.com/haproxy
+* https://github.com/managarm
 * https://github.com/lfortran
 * https://github.com/AcademySoftwareFoundation
 * https://github.com/etcd-io
 * https://github.com/meilisearch
 * https://github.com/VictoriaMetrics
 * https://github.com/firecracker-microvm
+* https://github.com/skift-org
 * https://github.com/sqlite
 * https://github.com/starship
 * https://github.com/nushell
@@ -186,6 +197,7 @@
 * https://github.com/duckdb
 * https://github.com/lima-vm
 * https://github.com/ydb-platform
+* https://github.com/ravynsoft
 * https://github.com/openocd-org
 * https://github.com/julelang
 * https://github.com/util-linux
@@ -200,12 +212,14 @@
 * https://github.com/flipt-io
 * https://github.com/opencost
 * https://github.com/tukaani-project
+* https://github.com/asterinas
 * https://github.com/libressl
 * https://github.com/dagucloud
 * https://github.com/openmeterio
 * https://github.com/SalomePlatform
 * https://github.com/polkit-org
 * https://github.com/rustfs
+* https://github.com/maestro-os
 * https://github.com/valkey-io
 * https://github.com/RsyncProject
 * https://github.com/jj-vcs
