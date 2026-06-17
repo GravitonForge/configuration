@@ -9,6 +9,7 @@
 * https://github.com/Kitware
 * https://github.com/postgres
 * https://github.com/ruby
+* https://github.com/puppetlabs
 * https://github.com/freebasic
 * https://github.com/DragonFlyBSD
 * https://github.com/tianocore
@@ -19,6 +20,7 @@
 * https://github.com/LibreCAD
 * https://github.com/schrodinger
 * https://github.com/FFmpeg
+* https://github.com/hashicorp
 * https://github.com/wxWidgets
 * https://github.com/freebsd
 * https://github.com/haiku
@@ -38,6 +40,7 @@
 * https://github.com/libarchive
 * https://github.com/videolan
 * https://github.com/jackaudio
+* https://github.com/ansible
 * https://github.com/gem5
 * https://github.com/python
 * https://github.com/redis
@@ -137,6 +140,7 @@
 * https://github.com/nih-at
 * https://github.com/intel
 * https://github.com/ostreedev
+* https://github.com/habitat-sh
 * https://github.com/go-delve
 * https://github.com/zephyrproject-rtos
 * https://github.com/lvgl
