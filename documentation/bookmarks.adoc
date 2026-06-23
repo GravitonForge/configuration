@@ -41,6 +41,7 @@
 * https://wikis.khronos.org/opengl/Main_Page
 * https://vulkan.org/learn
 * https://git-scm.com/doc
+* https://www.fossil-scm.org/home/doc/trunk/www/permutedindex.html
 * https://openstax.org/subjects
 * https://www.ti.com/design-development/analog-circuits.html
 * https://docs.riscv.org/reference/home/index.html
@@ -61,5 +62,4 @@
 * https://docs.gitea.com/
 * https://docs.gitlab.com/
 * https://docs.github.com/en
-* https://man.sr.ht/
 

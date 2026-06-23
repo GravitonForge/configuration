@@ -4,5 +4,4 @@
 * https://gitea.com/
 * https://gitlab.com/
 * https://github.com/en
-* https://sr.ht/
 
