@@ -38,6 +38,7 @@
 * https://github.com/gnuradio
 * https://github.com/raspberrypi
 * https://github.com/libarchive
+* https://github.com/cisco
 * https://github.com/videolan
 * https://github.com/jackaudio
 * https://github.com/ansible
@@ -61,7 +62,6 @@
 * https://github.com/system76
 * https://github.com/HelenOS
 * https://github.com/RIOT-OS
-* https://github.com/ValveSoftware
 * https://github.com/asciidoctor
 * https://github.com/openssl
 * https://github.com/KiCad
@@ -129,7 +129,6 @@
 * https://github.com/pciutils
 * https://github.com/scylladb
 * https://github.com/NetworkManager
-* https://github.com/itchio
 * https://github.com/redox-os
 * https://github.com/littlekernel
 * https://github.com/AOMediaCodec
@@ -157,13 +156,16 @@
 * https://github.com/envoyproxy
 * https://github.com/alire-project
 * https://github.com/PipeWire
+* https://github.com/harfbuzz
 * https://github.com/tock
 * https://github.com/odin-lang
 * https://github.com/signalwire
+* https://github.com/86Box
 * https://github.com/void-linux
 * https://github.com/code-saturne
 * https://github.com/netwide-assembler
 * https://github.com/haproxy
+* https://github.com/freetype
 * https://github.com/managarm
 * https://github.com/lfortran
 * https://github.com/AcademySoftwareFoundation
@@ -189,6 +191,7 @@
 * https://github.com/rivet-dev
 * https://github.com/FrameworkComputer
 * https://github.com/cli
+* https://github.com/dosbox-staging
 * https://github.com/carbon-language
 * https://github.com/baresip
 * https://github.com/helix-editor
@@ -230,6 +233,7 @@
 * https://github.com/RsyncProject
 * https://github.com/jj-vcs
 * https://github.com/flexprice
+* https://github.com/libriscv
 * https://github.com/arm
 * https://github.com/X11Libre
 
