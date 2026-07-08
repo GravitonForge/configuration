@@ -148,6 +148,7 @@
 * https://github.com/CelestiaProject
 * https://github.com/TexasInstruments
 * https://github.com/linux-pam
+* https://github.com/ory
 * https://github.com/go-task
 * https://github.com/libvips
 * https://github.com/manticoresoftware
@@ -196,7 +197,9 @@
 * https://github.com/baresip
 * https://github.com/helix-editor
 * https://github.com/htop-dev
+* https://github.com/zitadel
 * https://github.com/rustdesk
+* https://github.com/authzed
 * https://github.com/getlago
 * https://github.com/libsdl-org
 * https://github.com/inngest
@@ -213,6 +216,7 @@
 * https://github.com/open-feature
 * https://github.com/OpenRadioss
 * https://github.com/GreptimeTeam
+* https://github.com/openfga
 * https://github.com/QB64-Phoenix-Edition
 * https://github.com/jqlang
 * https://github.com/dragonflydb
