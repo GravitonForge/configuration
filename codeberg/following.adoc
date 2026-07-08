@@ -1,0 +1,9 @@
+= Following
+
+* https://codeberg.org/Codeberg
+* https://codeberg.org/forgejo
+* https://codeberg.org/forgejo-contrib
+* https://codeberg.org/ziglang
+* https://codeberg.org/guix
+* https://codeberg.org/git-pages
+

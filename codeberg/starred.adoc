@@ -1,0 +1,9 @@
+= Starred
+
+* https://codeberg.org/forgejo/forgejo
+* https://codeberg.org/forgejo-contrib/forgejo-cli
+* https://codeberg.org/ziglang/zig
+* https://codeberg.org/guix/guix
+* https://codeberg.org/git-pages/git-pages
+* https://codeberg.org/git-pages/git-pages-cli
+

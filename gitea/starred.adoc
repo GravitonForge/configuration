@@ -1,0 +1,5 @@
+= Starred
+
+* https://gitea.com/gitea/gitea-mirror
+* https://gitea.com/gitea/tea
+
