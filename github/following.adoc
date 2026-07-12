@@ -15,6 +15,7 @@
 * https://github.com/tianocore
 * https://github.com/arduino
 * https://github.com/illumos
+* https://github.com/libgit2
 * https://github.com/openscad
 * https://github.com/Gnucash
 * https://github.com/LibreCAD
@@ -121,7 +122,6 @@
 * https://github.com/seaweedfs
 * https://github.com/ossrs
 * https://github.com/ImageMagick
-* https://github.com/go-gitea
 * https://github.com/LibrePCB
 * https://github.com/unicode-org
 * https://github.com/gpg
