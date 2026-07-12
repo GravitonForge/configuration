@@ -1,10 +1,10 @@
 = Operating Systems
 
-* https://www.dragonflybsd.org/
 * https://freebsd.org/
 * https://netbsd.org/
 * https://www.openbsd.org/
 * https://illumos.org/
+* https://www.dragonflybsd.org/
 * https://kernel.org/
 * https://zephyrproject.org/
 * https://freertos.org/
