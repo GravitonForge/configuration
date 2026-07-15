@@ -8,7 +8,6 @@
 * https://github.com/lfortran/lfortran
 * https://github.com/fpc/FPCSource
 * https://github.com/fpc/Lazarus
-* https://github.com/freebasic/fbc
 * https://github.com/chapel-lang/chapel
 * https://github.com/AdaCore/gnat-llvm
 * https://github.com/AdaCore/ada_language_server
@@ -110,9 +109,7 @@
 * https://github.com/intel/media-driver
 * https://github.com/NVIDIA/nvapi
 * https://github.com/NVIDIA/open-gpu-kernel-modules
-* https://github.com/Gnucash/gnucash
 * https://github.com/emacs-mirror/emacs
-* https://github.com/gpg/gnupg
 * https://github.com/FirebirdSQL/firebird
 * https://github.com/sqlite/sqlite
 * https://github.com/ydb-platform/ydb
@@ -138,7 +135,6 @@
 * https://github.com/xfce-mirror/xfce4-terminal
 * https://github.com/KDE/konsole
 * https://github.com/KDE/kwin
-* https://github.com/quickwit-oss/quickwit
 * https://github.com/manticoresoftware/manticoresearch
 * https://github.com/typesense/typesense
 * https://github.com/meilisearch/meilisearch

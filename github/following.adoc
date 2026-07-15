@@ -10,14 +10,12 @@
 * https://github.com/postgres
 * https://github.com/ruby
 * https://github.com/puppetlabs
-* https://github.com/freebasic
 * https://github.com/DragonFlyBSD
 * https://github.com/tianocore
 * https://github.com/arduino
 * https://github.com/illumos
 * https://github.com/libgit2
 * https://github.com/openscad
-* https://github.com/Gnucash
 * https://github.com/LibreCAD
 * https://github.com/schrodinger
 * https://github.com/FFmpeg
@@ -124,7 +122,6 @@
 * https://github.com/ImageMagick
 * https://github.com/LibrePCB
 * https://github.com/unicode-org
-* https://github.com/gpg
 * https://github.com/KDE
 * https://github.com/pciutils
 * https://github.com/scylladb
@@ -213,7 +210,6 @@
 * https://github.com/julelang
 * https://github.com/util-linux
 * https://github.com/restatedev
-* https://github.com/quickwit-oss
 * https://github.com/open-feature
 * https://github.com/OpenRadioss
 * https://github.com/GreptimeTeam

@@ -1,5 +1,6 @@
 = Linux Distributions
 
+* https://fedoraproject.org/
 * https://www.archlinux.org/
 * https://www.gentoo.org/
 * https://www.debian.org/

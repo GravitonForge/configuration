@@ -4,7 +4,6 @@
 * https://fortran-lang.org/
 * https://freepascal.org/
 * https://www.modula2.org/
-* https://www.freebasic.net/
 * https://chapel-lang.org/
 * https://ada-lang.io/
 * https://algol68-lang.org/

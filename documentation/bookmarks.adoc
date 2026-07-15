@@ -4,7 +4,6 @@
 * https://fortran-lang.org/learn/
 * https://wiki.freepascal.org/
 * https://www.modula2.org/reference/index.php
-* https://www.freebasic.net/wiki/DocToc
 * https://chapel-lang.org/docs/index.html
 * https://ada-lang.io/docs/arm/
 * https://learn.adacore.com/
@@ -27,7 +26,6 @@
 * https://netbsd.org/docs/
 * https://www.openbsd.org/
 * https://illumos.org/docs/
-* https://www.dragonflybsd.org/docs/
 * https://docs.kernel.org/
 * https://www.gnu.org/software/software.html
 * https://www.freedesktop.org/wiki/Software/
@@ -54,8 +52,8 @@
 * https://www.vim.org/docs.php
 * https://www.gnu.org/software/emacs/documentation.html
 * https://zed.dev/docs/
-* https://astexplorer.net/
 * https://godbolt.org/
+* https://astexplorer.net/
 * https://docs.codeberg.org/
 * https://docs.gitea.com/
 * https://docs.gitlab.com/
