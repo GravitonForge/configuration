@@ -1,0 +1,12 @@
+= Installing Fonts on Linux
+
+
+== Font Directories
+
+* /usr/share/fonts
+* ~/.local/share/fonts
+
+== Font Cache Reset Command
+
+* fc-cache -f -r -v
+

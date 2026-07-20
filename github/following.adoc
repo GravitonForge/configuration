@@ -96,6 +96,7 @@
 * https://github.com/gogs
 * https://github.com/seL4
 * https://github.com/LibVNC
+* https://github.com/iputils
 * https://github.com/chapel-lang
 * https://github.com/AdaCore
 * https://github.com/SELinuxProject
@@ -210,6 +211,7 @@
 * https://github.com/julelang
 * https://github.com/util-linux
 * https://github.com/restatedev
+* https://github.com/quickwit-oss
 * https://github.com/open-feature
 * https://github.com/OpenRadioss
 * https://github.com/GreptimeTeam

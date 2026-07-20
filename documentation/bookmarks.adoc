@@ -2,15 +2,15 @@
 
 * https://www.c-language.org/
 * https://fortran-lang.org/learn/
-* https://wiki.freepascal.org/
-* https://www.modula2.org/reference/index.php
-* https://chapel-lang.org/docs/index.html
-* https://ada-lang.io/docs/arm/
-* https://learn.adacore.com/
-* https://algol68-lang.org/
 * https://isocpp.org/
 * https://go.dev/doc/
 * https://rust-lang.org/learn/
+* https://wiki.freepascal.org/
+* https://ada-lang.io/docs/arm/
+* https://learn.adacore.com/
+* https://chapel-lang.org/docs/index.html
+* https://www.modula2.org/reference/index.php
+* https://algol68-lang.org/
 * https://sourceware.org/glibc/manual/latest/html_node/index.html
 * https://gcc.gnu.org/onlinedocs/
 * https://www.sourceware.org/gdb/documentation/
