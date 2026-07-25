@@ -1,13 +1,11 @@
 = Programming Languages
 
 * https://www.c-language.org/
-* https://fortran-lang.org/
 * https://isocpp.org/
 * https://go.dev/
 * https://rust-lang.org/
+* https://fortran-lang.org/
 * https://freepascal.org/
 * https://ada-lang.io/
 * https://chapel-lang.org/
-* https://www.modula2.org/
-* https://algol68-lang.org/
 

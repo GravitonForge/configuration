@@ -1,16 +1,14 @@
 = Boomarks
 
 * https://www.c-language.org/
-* https://fortran-lang.org/learn/
 * https://isocpp.org/
 * https://go.dev/doc/
 * https://rust-lang.org/learn/
 * https://wiki.freepascal.org/
+* https://fortran-lang.org/learn/
 * https://ada-lang.io/docs/arm/
 * https://learn.adacore.com/
 * https://chapel-lang.org/docs/index.html
-* https://www.modula2.org/reference/index.php
-* https://algol68-lang.org/
 * https://sourceware.org/glibc/manual/latest/html_node/index.html
 * https://gcc.gnu.org/onlinedocs/
 * https://www.sourceware.org/gdb/documentation/
@@ -38,7 +36,7 @@
 * https://git-scm.com/doc
 * https://www.fossil-scm.org/home/doc/trunk/www/permutedindex.html
 * https://openstax.org/subjects
-* https://www.ti.com/design-development/analog-circuits.html
+* https://www.allaboutcircuits.com/textbook/
 * https://docs.riscv.org/reference/home/index.html
 * https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html
 * https://www.amd.com/en/developer/browse-by-resource-type/documentation.html
