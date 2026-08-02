@@ -22,6 +22,7 @@
 * https://github.com/hashicorp
 * https://github.com/wxWidgets
 * https://github.com/freebsd
+* https://github.com/libevent
 * https://github.com/haiku
 * https://github.com/openbsd
 * https://github.com/NetBSD
@@ -211,7 +212,6 @@
 * https://github.com/julelang
 * https://github.com/util-linux
 * https://github.com/restatedev
-* https://github.com/quickwit-oss
 * https://github.com/open-feature
 * https://github.com/OpenRadioss
 * https://github.com/GreptimeTeam

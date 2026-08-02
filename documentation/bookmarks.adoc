@@ -1,13 +1,13 @@
 = Boomarks
 
 * https://www.c-language.org/
+* https://fortran-lang.org/learn/
+* https://wiki.freepascal.org/
+* https://ada-lang.io/docs/arm/
+* https://learn.adacore.com/
 * https://isocpp.org/
 * https://go.dev/doc/
 * https://rust-lang.org/learn/
-* https://wiki.freepascal.org/
-* https://fortran-lang.org/learn/
-* https://ada-lang.io/docs/arm/
-* https://learn.adacore.com/
 * https://chapel-lang.org/docs/index.html
 * https://sourceware.org/glibc/manual/latest/html_node/index.html
 * https://gcc.gnu.org/onlinedocs/
@@ -21,14 +21,14 @@
 * https://pubs.opengroup.org/onlinepubs/9799919799/
 * https://www.gnu.org/software/gnulib/manual/html_node/index.html
 * https://docs.freebsd.org/en/
-* https://netbsd.org/docs/
 * https://www.openbsd.org/
+* https://netbsd.org/docs/
+* https://www.dragonflybsd.org/docs/
 * https://illumos.org/docs/
 * https://docs.kernel.org/
 * https://www.gnu.org/software/software.html
 * https://www.freedesktop.org/wiki/Software/
 * https://wiki.qemu.org/Documentation
-* https://lima-vm.io/docs/
 * https://systemd.io/
 * https://www.openssh.org/
 * https://wikis.khronos.org/opengl/Main_Page
@@ -50,10 +50,10 @@
 * https://www.vim.org/docs.php
 * https://www.gnu.org/software/emacs/documentation.html
 * https://zed.dev/docs/
-* https://godbolt.org/
-* https://astexplorer.net/
 * https://docs.codeberg.org/
 * https://docs.gitea.com/
 * https://docs.gitlab.com/
 * https://docs.github.com/en
+* https://godbolt.org/
+* https://astexplorer.net/
 
