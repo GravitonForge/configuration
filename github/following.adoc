@@ -60,7 +60,6 @@
 * https://github.com/lua
 * https://github.com/openssh
 * https://github.com/system76
-* https://github.com/HelenOS
 * https://github.com/RIOT-OS
 * https://github.com/asciidoctor
 * https://github.com/openssl
@@ -230,7 +229,6 @@
 * https://github.com/polkit-org
 * https://github.com/rustfs
 * https://github.com/openbao
-* https://github.com/maestro-os
 * https://github.com/valkey-io
 * https://github.com/RsyncProject
 * https://github.com/jj-vcs

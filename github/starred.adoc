@@ -56,10 +56,8 @@
 * https://github.com/haiku/haiku
 * https://github.com/littlekernel/lk
 * https://github.com/ravynsoft/ravynos
-* https://github.com/maestro-os/maestro
 * https://github.com/asterinas/asterinas
 * https://github.com/skift-org/skift
-* https://github.com/HelenOS/helenos
 * https://github.com/hermit-os/kernel
 * https://github.com/redox-os/redox
 * https://github.com/reactos/reactos
