@@ -3,6 +3,7 @@
 * https://github.com/git
 * https://github.com/memcached
 * https://github.com/mongodb
+* https://github.com/mawww
 * https://github.com/gentoo
 * https://github.com/tcltk
 * https://github.com/yaml
@@ -119,6 +120,7 @@
 * https://github.com/juspay
 * https://github.com/vim
 * https://github.com/seaweedfs
+* https://github.com/tmux
 * https://github.com/ossrs
 * https://github.com/ImageMagick
 * https://github.com/LibrePCB
@@ -144,6 +146,7 @@
 * https://github.com/typesense
 * https://github.com/git-lfs
 * https://github.com/CelestiaProject
+* https://github.com/micro-editor
 * https://github.com/TexasInstruments
 * https://github.com/linux-pam
 * https://github.com/ory
@@ -202,7 +205,6 @@
 * https://github.com/getlago
 * https://github.com/libsdl-org
 * https://github.com/inngest
-* https://github.com/zed-industries
 * https://github.com/duckdb
 * https://github.com/lima-vm
 * https://github.com/ydb-platform

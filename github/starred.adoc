@@ -33,6 +33,9 @@
 * https://github.com/nushell/nushell
 * https://github.com/fish-shell/fish-shell
 * https://github.com/shader-slang/slang
+* https://github.com/mawww/kakoune
+* https://github.com/tmux/tmux
+* https://github.com/micro-editor/micro
 * https://github.com/hashicorp/vault
 * https://github.com/libevent/libevent
 * https://github.com/envoyproxy/envoy
@@ -196,7 +199,6 @@
 * https://github.com/seaweedfs/seaweedfs
 * https://github.com/libuv/libuv
 * https://github.com/go-task/task
-* https://github.com/zed-industries/zed
 * https://github.com/coreutils/coreutils
 * https://github.com/qemu/qemu
 * https://github.com/letsencrypt/boulder

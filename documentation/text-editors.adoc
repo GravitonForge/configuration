@@ -1,10 +1,11 @@
 = Text Editors
 
-
+* https://micro-editor.github.io/
+* http://kakoune.org/
 * https://helix-editor.com/
 * https://neovim.io/
-* https://www.geany.org/
-* https://kate-editor.org/
 * https://www.vim.org/
 * https://www.gnu.org/software/emacs/
+* https://www.geany.org/
+* https://kate-editor.org/
 
