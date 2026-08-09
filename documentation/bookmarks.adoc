@@ -50,10 +50,10 @@
 * https://www.geany.org/manual/current/index.html
 * https://www.vim.org/docs.php
 * https://www.gnu.org/software/emacs/documentation.html
-* https://zed.dev/docs/
 * https://docs.codeberg.org/
 * https://docs.gitea.com/
 * https://docs.gitlab.com/
 * https://docs.github.com/en
+* https://godbolt.org/
 * https://astexplorer.net/
 

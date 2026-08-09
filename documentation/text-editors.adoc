@@ -7,5 +7,4 @@
 * https://kate-editor.org/
 * https://www.vim.org/
 * https://www.gnu.org/software/emacs/
-* https://zed.dev/
 
