@@ -61,6 +61,7 @@
 * https://github.com/lua
 * https://github.com/openssh
 * https://github.com/system76
+* https://github.com/mpv-player
 * https://github.com/RIOT-OS
 * https://github.com/asciidoctor
 * https://github.com/openssl
@@ -83,7 +84,6 @@
 * https://github.com/lammps
 * https://github.com/kamailio
 * https://github.com/rust-lang
-* https://github.com/arangodb
 * https://github.com/ni
 * https://github.com/influxdata
 * https://github.com/wolfSSL
