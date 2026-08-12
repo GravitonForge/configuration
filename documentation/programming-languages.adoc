@@ -1,8 +1,8 @@
 = Programming Languages
 
 * https://www.c-language.org/
-* https://fortran-lang.org/
 * https://freepascal.org/
+* https://fortran-lang.org/
 * https://ada-lang.io/
 * https://isocpp.org/
 * https://go.dev/
