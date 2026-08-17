@@ -7,7 +7,6 @@
 * https://ada-lang.io/docs/arm/
 * https://learn.adacore.com/
 * https://isocpp.org/
-* https://chapel-lang.org/docs/index.html
 * https://go.dev/doc/
 * https://rust-lang.org/learn/
 * https://sourceware.org/glibc/manual/latest/html_node/index.html
@@ -29,8 +28,8 @@
 * https://docs.kernel.org/
 * https://www.gnu.org/software/software.html
 * https://www.freedesktop.org/wiki/Software/
+* https://wiki.osdev.org/Expanded_Main_Page
 * https://wiki.qemu.org/Documentation
-* https://systemd.io/
 * https://www.openssh.org/
 * https://wikis.khronos.org/opengl/Main_Page
 * https://vulkan.org/learn
@@ -38,7 +37,6 @@
 * https://www.fossil-scm.org/home/doc/trunk/www/permutedindex.html
 * https://openstax.org/subjects
 * https://www.allaboutcircuits.com/textbook/
-* https://wiki.osdev.org/Expanded_Main_Page
 * https://docs.riscv.org/reference/home/index.html
 * https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html
 * https://www.amd.com/en/developer/browse-by-resource-type/documentation.html

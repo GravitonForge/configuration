@@ -6,7 +6,6 @@
 * https://fortran-lang.org/
 * https://ada-lang.io/
 * https://isocpp.org/
-* https://chapel-lang.org/
 * https://go.dev/
 * https://rust-lang.org/
 
