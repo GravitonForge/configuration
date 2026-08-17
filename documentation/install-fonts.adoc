@@ -5,7 +5,7 @@
 * /usr/share/fonts
 * ~/.local/share/fonts
 
-== Font Cache Reset Command
+== Font Cache Reload Command
 
 * fc-cache -f -r -v
 

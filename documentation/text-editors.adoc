@@ -3,9 +3,9 @@
 * https://micro-editor.github.io/
 * http://kakoune.org/
 * https://helix-editor.com/
+* https://www.geany.org/
+* https://kate-editor.org/
 * https://neovim.io/
 * https://www.vim.org/
 * https://www.gnu.org/software/emacs/
-* https://www.geany.org/
-* https://kate-editor.org/
 

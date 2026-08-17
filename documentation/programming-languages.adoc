@@ -2,10 +2,11 @@
 
 * https://www.c-language.org/
 * https://freepascal.org/
+* https://www.freebasic.net
 * https://fortran-lang.org/
 * https://ada-lang.io/
 * https://isocpp.org/
+* https://chapel-lang.org/
 * https://go.dev/
 * https://rust-lang.org/
-* https://chapel-lang.org/
 

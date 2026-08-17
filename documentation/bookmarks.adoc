@@ -2,13 +2,14 @@
 
 * https://www.c-language.org/
 * https://wiki.freepascal.org/
+* https://www.freebasic.net/wiki/DocToc
 * https://fortran-lang.org/learn/
 * https://ada-lang.io/docs/arm/
 * https://learn.adacore.com/
 * https://isocpp.org/
+* https://chapel-lang.org/docs/index.html
 * https://go.dev/doc/
 * https://rust-lang.org/learn/
-* https://chapel-lang.org/docs/index.html
 * https://sourceware.org/glibc/manual/latest/html_node/index.html
 * https://gcc.gnu.org/onlinedocs/
 * https://www.sourceware.org/gdb/documentation/
@@ -43,11 +44,12 @@
 * https://www.amd.com/en/developer/browse-by-resource-type/documentation.html
 * https://developer.arm.com/documentation/
 * https://ecma-international.org/publications-and-standards/standards/
-* https://home.unicode.org/
 * https://datatracker.ietf.org/
+* https://developer.mozilla.org/en-US/docs/Web
+* https://home.unicode.org/
 * https://docs.helix-editor.com/
-* https://neovim.io/doc/
 * https://www.geany.org/manual/current/index.html
+* https://neovim.io/doc/
 * https://www.vim.org/docs.php
 * https://www.gnu.org/software/emacs/documentation.html
 * https://docs.codeberg.org/
