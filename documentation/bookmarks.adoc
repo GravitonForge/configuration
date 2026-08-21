@@ -8,7 +8,6 @@
 * https://learn.adacore.com/
 * https://isocpp.org/
 * https://go.dev/doc/
-* https://rust-lang.org/learn/
 * https://sourceware.org/glibc/manual/latest/html_node/index.html
 * https://gcc.gnu.org/onlinedocs/
 * https://www.sourceware.org/gdb/documentation/
@@ -31,6 +30,7 @@
 * https://wiki.osdev.org/Expanded_Main_Page
 * https://wiki.qemu.org/Documentation
 * https://www.openssh.org/
+* https://systemd.io/
 * https://wikis.khronos.org/opengl/Main_Page
 * https://vulkan.org/learn
 * https://git-scm.com/doc
