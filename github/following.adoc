@@ -85,7 +85,6 @@
 * https://github.com/cesanta
 * https://github.com/lammps
 * https://github.com/kamailio
-* https://github.com/rust-lang
 * https://github.com/ni
 * https://github.com/influxdata
 * https://github.com/wolfSSL
@@ -162,6 +161,7 @@
 * https://github.com/alire-project
 * https://github.com/PipeWire
 * https://github.com/harfbuzz
+* https://github.com/cubefs
 * https://github.com/tock
 * https://github.com/odin-lang
 * https://github.com/signalwire

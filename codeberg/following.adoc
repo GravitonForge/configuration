@@ -1,6 +1,6 @@
 = Following
 
-* https://codeberg.org/Codeberg
+* https://codeberg.org/codeberg
 * https://codeberg.org/forgejo
 * https://codeberg.org/forgejo-contrib
 * https://codeberg.org/ziglang
