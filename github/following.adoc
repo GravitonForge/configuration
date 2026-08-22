@@ -1,6 +1,7 @@
 = Following
 
 * https://github.com/git
+* https://github.com/chef
 * https://github.com/memcached
 * https://github.com/mongodb
 * https://github.com/mawww
@@ -45,7 +46,6 @@
 * https://github.com/jackaudio
 * https://github.com/ansible
 * https://github.com/gem5
-* https://github.com/python
 * https://github.com/redis
 * https://github.com/darktable-org
 * https://github.com/OpenVPN
@@ -85,6 +85,7 @@
 * https://github.com/cesanta
 * https://github.com/lammps
 * https://github.com/kamailio
+* https://github.com/arangodb
 * https://github.com/ni
 * https://github.com/influxdata
 * https://github.com/wolfSSL
@@ -186,7 +187,6 @@
 * https://github.com/blender
 * https://github.com/fortran-lang
 * https://github.com/c3lang
-* https://github.com/oxidecomputer
 * https://github.com/sudo-project
 * https://github.com/FreeRTOS
 * https://github.com/ClickHouse
