@@ -40,6 +40,7 @@
 * https://github.com/OpenChemistry
 * https://github.com/gnuradio
 * https://github.com/raspberrypi
+* https://github.com/libguestfs
 * https://github.com/libarchive
 * https://github.com/cisco
 * https://github.com/videolan
@@ -125,6 +126,7 @@
 * https://github.com/tmux
 * https://github.com/ossrs
 * https://github.com/ImageMagick
+* https://github.com/libvirt
 * https://github.com/LibrePCB
 * https://github.com/libjpeg-turbo
 * https://github.com/unicode-org
@@ -199,7 +201,6 @@
 * https://github.com/dosbox-staging
 * https://github.com/carbon-language
 * https://github.com/baresip
-* https://github.com/helix-editor
 * https://github.com/livekit
 * https://github.com/htop-dev
 * https://github.com/zitadel
@@ -209,7 +210,6 @@
 * https://github.com/libsdl-org
 * https://github.com/inngest
 * https://github.com/duckdb
-* https://github.com/lima-vm
 * https://github.com/ydb-platform
 * https://github.com/ravynsoft
 * https://github.com/openocd-org

@@ -29,6 +29,7 @@
 * https://www.freedesktop.org/wiki/Software/
 * https://wiki.osdev.org/Expanded_Main_Page
 * https://wiki.qemu.org/Documentation
+* https://firecracker-microvm.github.io/
 * https://www.openssh.org/
 * https://systemd.io/
 * https://wikis.khronos.org/opengl/Main_Page
@@ -45,7 +46,6 @@
 * https://datatracker.ietf.org/
 * https://developer.mozilla.org/en-US/docs/Web
 * https://home.unicode.org/
-* https://docs.helix-editor.com/
 * https://www.geany.org/manual/current/index.html
 * https://neovim.io/doc/
 * https://www.vim.org/docs.php
