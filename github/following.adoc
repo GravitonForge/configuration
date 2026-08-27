@@ -119,7 +119,6 @@
 * https://github.com/STMicroelectronics
 * https://github.com/docutils
 * https://github.com/riscv
-* https://github.com/surrealdb
 * https://github.com/juspay
 * https://github.com/vim
 * https://github.com/seaweedfs
@@ -181,7 +180,6 @@
 * https://github.com/meilisearch
 * https://github.com/VictoriaMetrics
 * https://github.com/firecracker-microvm
-* https://github.com/skift-org
 * https://github.com/sqlite
 * https://github.com/starship
 * https://github.com/nushell

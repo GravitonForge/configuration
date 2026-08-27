@@ -63,7 +63,6 @@
 * https://github.com/littlekernel/lk
 * https://github.com/ravynsoft/ravynos
 * https://github.com/asterinas/asterinas
-* https://github.com/skift-org/skift
 * https://github.com/hermit-os/kernel
 * https://github.com/redox-os/redox
 * https://github.com/reactos/reactos
@@ -159,7 +158,6 @@
 * https://github.com/scylladb/scylladb
 * https://github.com/redis/redis
 * https://github.com/mongodb/mongo
-* https://github.com/surrealdb/surrealdb
 * https://github.com/etcd-io/etcd
 * https://github.com/dragonflydb/dragonfly
 * https://github.com/rivet-dev/actors
