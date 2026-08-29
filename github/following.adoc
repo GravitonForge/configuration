@@ -47,6 +47,7 @@
 * https://github.com/jackaudio
 * https://github.com/ansible
 * https://github.com/gem5
+* https://github.com/python
 * https://github.com/redis
 * https://github.com/darktable-org
 * https://github.com/OpenVPN
@@ -160,7 +161,6 @@
 * https://github.com/shader-slang
 * https://github.com/linux-mobile-broadband
 * https://github.com/envoyproxy
-* https://github.com/alire-project
 * https://github.com/PipeWire
 * https://github.com/harfbuzz
 * https://github.com/cubefs
@@ -187,6 +187,7 @@
 * https://github.com/blender
 * https://github.com/fortran-lang
 * https://github.com/c3lang
+* https://github.com/fwupd
 * https://github.com/sudo-project
 * https://github.com/FreeRTOS
 * https://github.com/ClickHouse
@@ -208,6 +209,7 @@
 * https://github.com/libsdl-org
 * https://github.com/inngest
 * https://github.com/duckdb
+* https://github.com/PackageKit
 * https://github.com/ydb-platform
 * https://github.com/ravynsoft
 * https://github.com/openocd-org
