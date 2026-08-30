@@ -102,7 +102,6 @@
 * https://github.com/seL4
 * https://github.com/LibVNC
 * https://github.com/iputils
-* https://github.com/chapel-lang
 * https://github.com/AdaCore
 * https://github.com/SELinuxProject
 * https://github.com/FDOS
@@ -157,6 +156,7 @@
 * https://github.com/ory
 * https://github.com/go-task
 * https://github.com/libvips
+* https://github.com/flang-compiler
 * https://github.com/manticoresoftware
 * https://github.com/shader-slang
 * https://github.com/linux-mobile-broadband

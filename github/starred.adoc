@@ -8,11 +8,11 @@
 * https://github.com/fpc/Lazarus
 * https://github.com/freebasic/fbc
 * https://github.com/fortran-lang/stdlib
+* https://github.com/flang-compiler/flang
 * https://github.com/AdaCore/gnat-llvm
 * https://github.com/lfortran/lfortran
 * https://github.com/AdaCore/ada_language_server
 * https://github.com/AdaCore/gnatstudio
-* https://github.com/chapel-lang/chapel
 * https://github.com/odin-lang/Odin
 * https://github.com/c3lang/c3c
 * https://github.com/carbon-language/carbon-lang
