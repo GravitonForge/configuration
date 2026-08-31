@@ -4,6 +4,7 @@
 * https://github.com/chef
 * https://github.com/memcached
 * https://github.com/mongodb
+* https://github.com/apache
 * https://github.com/mawww
 * https://github.com/gentoo
 * https://github.com/tcltk
@@ -66,6 +67,7 @@
 * https://github.com/openssh
 * https://github.com/system76
 * https://github.com/mpv-player
+* https://github.com/HelenOS
 * https://github.com/RIOT-OS
 * https://github.com/asciidoctor
 * https://github.com/openssl
@@ -233,6 +235,8 @@
 * https://github.com/polkit-org
 * https://github.com/rustfs
 * https://github.com/openbao
+* https://github.com/maestro-os
+* https://github.com/eclipse-threadx
 * https://github.com/valkey-io
 * https://github.com/RsyncProject
 * https://github.com/jj-vcs
