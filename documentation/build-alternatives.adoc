@@ -1,0 +1,51 @@
+= Build Your Own Alternatives
+
+== Business
+
+* ERP & Operations
+* Human Resources (HR)
+* Marketing & Customer Engagement
+* CRM & Sales
+* Customer Support & Success
+* E-commerce Platforms
+* Collaboration & Communication
+* Scheduling & Event Management
+* Document Management & E-Signatures
+* Finance & Accounting
+* Forms & Surveys
+* Compliance & Risk Management
+* Project & Work Management
+* Legal
+* Finance & Fintech
+* Logistics & Supply Chain
+
+== Infrastructure
+
+* Cloud Infrastructure Management
+* Search Engines
+* Server & VM Management
+* Monitoring & Observability
+* Networking & Connectivity
+* Orchestration & Scheduling
+* Messaging & Event Streaming
+* Backup & Recovery
+* Storage Solutions
+* Databases
+
+== Security and Privacy
+
+* Identity & Access Management (IAM)
+* Secrets Management
+* Threat Detection & Response
+* Network Security
+* Data Security & Privacy
+* Application Security
+* Fraud Prevention
+
+=== References
+
+* https://openalternative.co/
+* https://opensourcealternative.to/
+* https://opensourcealternatives.to/
+* https://alternativeto.net/
+
