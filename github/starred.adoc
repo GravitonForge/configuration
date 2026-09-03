@@ -23,7 +23,6 @@
 * https://github.com/fish-shell/fish-shell
 * https://github.com/nushell/nushell
 * https://github.com/shader-slang/slang
-* https://github.com/maestro-os/maestro
 * https://github.com/HelenOS/helenos
 * https://github.com/apache/nuttx
 * https://github.com/eclipse-threadx/threadx
@@ -190,7 +189,6 @@
 * https://github.com/blender/blender
 * https://github.com/cli/cli
 * https://github.com/OpenRC/openrc
-* https://github.com/X11Libre/xserver
 * https://github.com/gnuradio/gnuradio
 * https://github.com/jackaudio/jack2
 * https://github.com/PipeWire/pipewire

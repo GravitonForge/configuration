@@ -235,7 +235,6 @@
 * https://github.com/polkit-org
 * https://github.com/rustfs
 * https://github.com/openbao
-* https://github.com/maestro-os
 * https://github.com/eclipse-threadx
 * https://github.com/valkey-io
 * https://github.com/RsyncProject
@@ -243,5 +242,4 @@
 * https://github.com/flexprice
 * https://github.com/libriscv
 * https://github.com/arm
-* https://github.com/X11Libre
 
