@@ -8,12 +8,12 @@
 * https://github.com/fpc/Lazarus
 * https://github.com/freebasic/fbc
 * https://github.com/fortran-lang/stdlib
-* https://github.com/flang-compiler/flang
 * https://github.com/lfortran/lfortran
+* https://github.com/flang-compiler/flang
 * https://github.com/AdaCore/gnat-llvm
 * https://github.com/AdaCore/ada_language_server
-* https://github.com/AdaCore/gnatstudio
 * https://github.com/odin-lang/Odin
+* https://github.com/AdaCore/gnatstudio
 * https://github.com/c3lang/c3c
 * https://github.com/carbon-language/carbon-lang
 * https://github.com/golang/go
@@ -23,6 +23,10 @@
 * https://github.com/fish-shell/fish-shell
 * https://github.com/nushell/nushell
 * https://github.com/shader-slang/slang
+* https://github.com/zrythm/zrythm
+* https://github.com/Ardour/ardour
+* https://github.com/audacity/audacity
+* https://github.com/LMMS/lmms
 * https://github.com/HelenOS/helenos
 * https://github.com/apache/nuttx
 * https://github.com/eclipse-threadx/threadx

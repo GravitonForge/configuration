@@ -46,6 +46,7 @@
 * https://github.com/cisco
 * https://github.com/videolan
 * https://github.com/jackaudio
+* https://github.com/Ardour
 * https://github.com/ansible
 * https://github.com/gem5
 * https://github.com/python
@@ -96,6 +97,7 @@
 * https://github.com/FirebirdSQL
 * https://github.com/pjsip
 * https://github.com/fltk
+* https://github.com/LMMS
 * https://github.com/webmproject
 * https://github.com/neovim
 * https://github.com/coreboot
@@ -123,6 +125,7 @@
 * https://github.com/riscv
 * https://github.com/juspay
 * https://github.com/vim
+* https://github.com/audacity
 * https://github.com/seaweedfs
 * https://github.com/tmux
 * https://github.com/ossrs
@@ -186,6 +189,7 @@
 * https://github.com/starship
 * https://github.com/nushell
 * https://github.com/openmm
+* https://github.com/zrythm
 * https://github.com/blender
 * https://github.com/fortran-lang
 * https://github.com/c3lang
