@@ -42,12 +42,12 @@
 * https://github.com/gnuradio
 * https://github.com/raspberrypi
 * https://github.com/libguestfs
-* https://github.com/google
 * https://github.com/libarchive
 * https://github.com/cisco
 * https://github.com/videolan
 * https://github.com/jackaudio
 * https://github.com/Ardour
+* https://github.com/godaddy
 * https://github.com/ansible
 * https://github.com/gem5
 * https://github.com/python
@@ -72,6 +72,7 @@
 * https://github.com/system76
 * https://github.com/mpv-player
 * https://github.com/HelenOS
+* https://github.com/hostinger
 * https://github.com/RIOT-OS
 * https://github.com/asciidoctor
 * https://github.com/openssl
@@ -87,19 +88,20 @@
 * https://github.com/golang
 * https://github.com/libusb
 * https://github.com/openzfs
+* https://github.com/digitalocean
 * https://github.com/archlinux
 * https://github.com/coreutils
 * https://github.com/opencv
 * https://github.com/cesanta
 * https://github.com/lammps
 * https://github.com/kamailio
+* https://github.com/akamai
 * https://github.com/arangodb
 * https://github.com/ni
 * https://github.com/influxdata
 * https://github.com/wolfSSL
 * https://github.com/FirebirdSQL
 * https://github.com/pjsip
-* https://github.com/microsoft
 * https://github.com/fltk
 * https://github.com/LMMS
 * https://github.com/webmproject
@@ -117,6 +119,7 @@
 * https://github.com/xiph
 * https://github.com/gcc-mirror
 * https://github.com/emacs-mirror
+* https://github.com/vultr
 * https://github.com/MicrochipTech
 * https://github.com/embox
 * https://github.com/letsencrypt
@@ -161,6 +164,7 @@
 * https://github.com/TheAlgorithms
 * https://github.com/CelestiaProject
 * https://github.com/micro-editor
+* https://github.com/hetznercloud
 * https://github.com/TexasInstruments
 * https://github.com/linux-pam
 * https://github.com/ory
@@ -176,6 +180,7 @@
 * https://github.com/cubefs
 * https://github.com/tock
 * https://github.com/odin-lang
+* https://github.com/cherryservers
 * https://github.com/signalwire
 * https://github.com/86Box
 * https://github.com/void-linux
@@ -211,6 +216,7 @@
 * https://github.com/dosbox-staging
 * https://github.com/carbon-language
 * https://github.com/baresip
+* https://github.com/ionos-cloud
 * https://github.com/livekit
 * https://github.com/htop-dev
 * https://github.com/zitadel
