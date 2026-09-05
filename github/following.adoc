@@ -42,6 +42,7 @@
 * https://github.com/gnuradio
 * https://github.com/raspberrypi
 * https://github.com/libguestfs
+* https://github.com/google
 * https://github.com/libarchive
 * https://github.com/cisco
 * https://github.com/videolan
@@ -55,12 +56,14 @@
 * https://github.com/OpenVPN
 * https://github.com/KhronosGroup
 * https://github.com/dart-lang
+* https://github.com/ovh
 * https://github.com/NVIDIA
 * https://github.com/RT-Thread
 * https://github.com/GNOME
 * https://github.com/fish-shell
 * https://github.com/Debian
 * https://github.com/openbabel
+* https://github.com/NLnetLabs
 * https://github.com/systemd
 * https://github.com/qemu
 * https://github.com/FreeCAD
@@ -96,6 +99,7 @@
 * https://github.com/wolfSSL
 * https://github.com/FirebirdSQL
 * https://github.com/pjsip
+* https://github.com/microsoft
 * https://github.com/fltk
 * https://github.com/LMMS
 * https://github.com/webmproject
@@ -154,6 +158,7 @@
 * https://github.com/lvgl
 * https://github.com/typesense
 * https://github.com/git-lfs
+* https://github.com/TheAlgorithms
 * https://github.com/CelestiaProject
 * https://github.com/micro-editor
 * https://github.com/TexasInstruments
@@ -246,4 +251,5 @@
 * https://github.com/flexprice
 * https://github.com/libriscv
 * https://github.com/arm
+* https://github.com/pigweed-project
 
