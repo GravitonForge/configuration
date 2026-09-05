@@ -130,6 +130,7 @@
 * https://github.com/STMicroelectronics
 * https://github.com/docutils
 * https://github.com/riscv
+* https://github.com/surrealdb
 * https://github.com/juspay
 * https://github.com/vim
 * https://github.com/audacity
@@ -250,6 +251,7 @@
 * https://github.com/polkit-org
 * https://github.com/rustfs
 * https://github.com/openbao
+* https://github.com/maestro-os
 * https://github.com/eclipse-threadx
 * https://github.com/valkey-io
 * https://github.com/RsyncProject
