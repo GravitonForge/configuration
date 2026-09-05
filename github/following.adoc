@@ -121,7 +121,6 @@
 * https://github.com/gcc-mirror
 * https://github.com/emacs-mirror
 * https://github.com/vultr
-* https://github.com/commonmark
 * https://github.com/MicrochipTech
 * https://github.com/embox
 * https://github.com/letsencrypt
@@ -168,6 +167,7 @@
 * https://github.com/CelestiaProject
 * https://github.com/micro-editor
 * https://github.com/hetznercloud
+* https://github.com/superfly
 * https://github.com/TexasInstruments
 * https://github.com/linux-pam
 * https://github.com/ory
