@@ -1,10 +1,10 @@
 = Programming Languages
 
 * https://www.c-language.org/
-* https://freepascal.org/
-* https://www.freebasic.net
 * https://fortran-lang.org/
+* https://freepascal.org/
 * https://ada-lang.io/
+* https://www.freebasic.net
 * https://isocpp.org/
 * https://go.dev/
 
