@@ -121,6 +121,7 @@
 * https://github.com/gcc-mirror
 * https://github.com/emacs-mirror
 * https://github.com/vultr
+* https://github.com/commonmark
 * https://github.com/MicrochipTech
 * https://github.com/embox
 * https://github.com/letsencrypt
@@ -135,6 +136,7 @@
 * https://github.com/juspay
 * https://github.com/vim
 * https://github.com/audacity
+* https://github.com/lz4
 * https://github.com/seaweedfs
 * https://github.com/tmux
 * https://github.com/ossrs
@@ -163,11 +165,9 @@
 * https://github.com/lvgl
 * https://github.com/typesense
 * https://github.com/git-lfs
-* https://github.com/TheAlgorithms
 * https://github.com/CelestiaProject
 * https://github.com/micro-editor
 * https://github.com/hetznercloud
-* https://github.com/commonmark
 * https://github.com/TexasInstruments
 * https://github.com/linux-pam
 * https://github.com/ory
