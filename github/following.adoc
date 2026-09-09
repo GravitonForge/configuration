@@ -65,6 +65,7 @@
 * https://github.com/openbabel
 * https://github.com/NLnetLabs
 * https://github.com/systemd
+* https://github.com/exoscale
 * https://github.com/qemu
 * https://github.com/FreeCAD
 * https://github.com/lua
@@ -100,6 +101,7 @@
 * https://github.com/arangodb
 * https://github.com/ni
 * https://github.com/influxdata
+* https://github.com/Infomaniak
 * https://github.com/wolfSSL
 * https://github.com/FirebirdSQL
 * https://github.com/pjsip
@@ -137,6 +139,7 @@
 * https://github.com/vim
 * https://github.com/audacity
 * https://github.com/lz4
+* https://github.com/UpCloudLtd
 * https://github.com/seaweedfs
 * https://github.com/tmux
 * https://github.com/ossrs
@@ -165,6 +168,7 @@
 * https://github.com/lvgl
 * https://github.com/typesense
 * https://github.com/git-lfs
+* https://github.com/TheAlgorithms
 * https://github.com/CelestiaProject
 * https://github.com/micro-editor
 * https://github.com/hetznercloud
