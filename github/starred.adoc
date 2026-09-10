@@ -23,6 +23,8 @@
 * https://github.com/fish-shell/fish-shell
 * https://github.com/nushell/nushell
 * https://github.com/shader-slang/slang
+* https://github.com/GNOME/gimp
+* https://github.com/Gnucash/gnucash
 * https://github.com/polkit-org/polkit
 * https://github.com/lz4/lz4
 * https://github.com/KDE/kate

@@ -20,6 +20,7 @@
 * https://github.com/illumos
 * https://github.com/libgit2
 * https://github.com/openscad
+* https://github.com/Gnucash
 * https://github.com/LibreCAD
 * https://github.com/schrodinger
 * https://github.com/FFmpeg
@@ -257,7 +258,6 @@
 * https://github.com/polkit-org
 * https://github.com/rustfs
 * https://github.com/openbao
-* https://github.com/maestro-os
 * https://github.com/eclipse-threadx
 * https://github.com/valkey-io
 * https://github.com/RsyncProject
