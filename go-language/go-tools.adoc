@@ -1,5 +1,0 @@
-= Go Programming Language Tools
-
-* github.com/go-delve/delve/cmd/dlv
-* golang.org/x/tools/gopls
-

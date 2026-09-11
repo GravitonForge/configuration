@@ -4,16 +4,8 @@
 
 [,shell]
 ----
-# Compile
-clang ./src/*.h ./src/*/*.h
-
-clang ./src/*.c ./src/*/*.c -include-pch ./src/*.pch ./src/*/*.pch -o ./build/application
-
-rm ./src/*.pch ./src/*/*.pch
-
-./build/application
-
 # Analyze
+
 --analyze: Run the static analyzer
 -Wall: All Warnings
 -Wextra: Extra Warnings
@@ -33,16 +25,8 @@ rm ./src/*.pch ./src/*/*.pch
 
 [,shell]
 ----
-# Compile
-gcc ./src/*.h ./src/*/*.h
-
-gcc ./src/*.c ./src/*/*.c -include ./src/*.pch ./src/*/*.pch -o ./build/application
-
-rm ./src/*.pch ./src/*/*.pch
-
-./build/application
-
 # Analyze
+
 -fanalyzer
 -Wall: All Warnings
 -Wextra: Extra Warnings

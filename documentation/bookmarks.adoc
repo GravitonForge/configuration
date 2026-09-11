@@ -5,9 +5,8 @@
 * https://wiki.freepascal.org/
 * https://ada-lang.io/docs/arm/
 * https://learn.adacore.com/
-* https://www.freebasic.net/wiki/DocToc
 * https://isocpp.org/
-* https://go.dev/doc/
+* https://www.freebasic.net/wiki/DocToc
 * https://sourceware.org/glibc/manual/latest/html_node/index.html
 * https://gcc.gnu.org/onlinedocs/
 * https://www.sourceware.org/gdb/documentation/
@@ -35,6 +34,7 @@
 * https://wikis.khronos.org/opengl/Main_Page
 * https://vulkan.org/learn
 * https://git-scm.com/doc
+* https://subversion.apache.org/docs/
 * https://www.fossil-scm.org/home/doc/trunk/www/permutedindex.html
 * https://openstax.org/subjects
 * https://www.allaboutcircuits.com/textbook/

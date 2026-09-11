@@ -6,5 +6,4 @@
 * https://ada-lang.io/
 * https://www.freebasic.net
 * https://isocpp.org/
-* https://go.dev/
 
