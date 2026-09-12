@@ -1,4 +1,5 @@
 = Following
 
 * https://gitlab.freedesktop.org/
+* https://gitlab.com/gitlab-org/
 

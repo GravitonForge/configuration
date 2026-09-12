@@ -98,6 +98,7 @@
 * https://github.com/scaleway
 * https://github.com/lammps
 * https://github.com/kamailio
+* https://github.com/rust-lang
 * https://github.com/akamai
 * https://github.com/arangodb
 * https://github.com/ni
@@ -119,6 +120,7 @@
 * https://github.com/AdaCore
 * https://github.com/SELinuxProject
 * https://github.com/FDOS
+* https://github.com/official-stockfish
 * https://github.com/toml-lang
 * https://github.com/xiph
 * https://github.com/gcc-mirror
@@ -169,7 +171,6 @@
 * https://github.com/lvgl
 * https://github.com/typesense
 * https://github.com/git-lfs
-* https://github.com/TheAlgorithms
 * https://github.com/CelestiaProject
 * https://github.com/micro-editor
 * https://github.com/hetznercloud
@@ -197,6 +198,7 @@
 * https://github.com/haproxy
 * https://github.com/freetype
 * https://github.com/managarm
+* https://github.com/LeelaChessZero
 * https://github.com/lfortran
 * https://github.com/AcademySoftwareFoundation
 * https://github.com/etcd-io
