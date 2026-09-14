@@ -129,6 +129,7 @@
 * https://github.com/commonmark
 * https://github.com/MicrochipTech
 * https://github.com/embox
+* https://github.com/h2o
 * https://github.com/letsencrypt
 * https://github.com/OpenSpace
 * https://github.com/espressif
@@ -171,6 +172,7 @@
 * https://github.com/lvgl
 * https://github.com/typesense
 * https://github.com/git-lfs
+* https://github.com/TheAlgorithms
 * https://github.com/CelestiaProject
 * https://github.com/micro-editor
 * https://github.com/hetznercloud
