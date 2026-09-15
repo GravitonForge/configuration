@@ -54,8 +54,6 @@
 * https://github.com/libguestfs/libguestfs
 * https://github.com/libvirt/libvirt
 * https://github.com/arangodb/arangodb
-* https://github.com/rustfs/rustfs
-* https://github.com/cubefs/cubefs
 * https://github.com/libjpeg-turbo/libjpeg-turbo
 * https://github.com/darktable-org/darktable
 * https://github.com/mpv-player/mpv
@@ -111,7 +109,6 @@
 * https://github.com/geany/geany
 * https://github.com/xiph/flac
 * https://github.com/xiph/opus
-* https://github.com/ceph/ceph
 * https://github.com/OpenRadioss/OpenRadioss
 * https://github.com/code-saturne/code_saturne
 * https://github.com/open-feature/flagd
@@ -213,7 +210,6 @@
 * https://github.com/RsyncProject/rsync
 * https://github.com/illumos/illumos-gate
 * https://github.com/jqlang/jq
-* https://github.com/seaweedfs/seaweedfs
 * https://github.com/libuv/libuv
 * https://github.com/go-task/task
 * https://github.com/coreutils/coreutils
