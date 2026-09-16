@@ -1,0 +1,7 @@
+= Go Language Tools
+
+== Located at https://pkg.go.dev/*
+
+* github.com/go-delve/delve/cmd/dlv@latest
+* golang.org/x/tools/cmd/goimports@latest
+

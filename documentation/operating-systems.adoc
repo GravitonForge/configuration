@@ -4,7 +4,6 @@
 * https://netbsd.org/
 * https://www.openbsd.org/
 * https://www.dragonflybsd.org/
-* https://illumos.org/
 * https://kernel.org/
 * https://zephyrproject.org/
 * https://freertos.org/
