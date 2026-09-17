@@ -1,3 +1,10 @@
+# Copyright of The Graviton Forge. All Rights Reserved.
+
+# Licensed under the GNU Affero General Public License, Version 3.0.
+
+# You may obtain a copy of the License at:
+# https://www.gnu.org/licenses/lgpl-3.0.en.html
+
 # this file is both a valid
 # - overlay which can be loaded with `overlay use starship.nu`
 # - module which can be used with `use starship.nu`
