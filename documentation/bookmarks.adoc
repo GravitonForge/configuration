@@ -6,7 +6,6 @@
 * https://ada-lang.io/docs/arm/
 * https://learn.adacore.com/
 * https://isocpp.org/
-* https://www.freebasic.net/wiki/DocToc
 * https://go.dev/doc/
 * https://sourceware.org/glibc/manual/latest/html_node/index.html
 * https://gcc.gnu.org/onlinedocs/
@@ -23,6 +22,7 @@
 * https://www.openbsd.org/
 * https://netbsd.org/docs/
 * https://www.dragonflybsd.org/docs/
+* https://illumos.org/docs/
 * https://docs.kernel.org/
 * https://www.gnu.org/software/software.html
 * https://www.freedesktop.org/wiki/Software/

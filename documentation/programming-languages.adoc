@@ -4,7 +4,6 @@
 * https://fortran-lang.org/
 * https://freepascal.org/
 * https://ada-lang.io/
-* https://www.freebasic.net
 * https://isocpp.org/
 * https://go.dev/
 

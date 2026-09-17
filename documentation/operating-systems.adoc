@@ -4,9 +4,13 @@
 * https://netbsd.org/
 * https://www.openbsd.org/
 * https://www.dragonflybsd.org/
+* https://illumos.org/docs/
 * https://kernel.org/
 * https://zephyrproject.org/
 * https://freertos.org/
+* https://nuttx.apache.org/
+* https://riot-os.org/
+* https://rt-thread.github.io/rt-thread/
 * https://www.gnu.org/software/software.html
 * https://www.freedesktop.org/wiki/Software/
 
