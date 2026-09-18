@@ -101,6 +101,7 @@
 * https://github.com/akamai
 * https://github.com/arangodb
 * https://github.com/ni
+* https://github.com/jemalloc
 * https://github.com/influxdata
 * https://github.com/Infomaniak
 * https://github.com/wolfSSL
@@ -170,7 +171,6 @@
 * https://github.com/lvgl
 * https://github.com/typesense
 * https://github.com/git-lfs
-* https://github.com/TheAlgorithms
 * https://github.com/CelestiaProject
 * https://github.com/micro-editor
 * https://github.com/hetznercloud
