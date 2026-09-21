@@ -3,7 +3,7 @@
 # Licensed under the GNU Affero General Public License, Version 3.0.
 
 # You may obtain a copy of the License at:
-# https://www.gnu.org/licenses/lgpl-3.0.en.html
+# https://www.gnu.org/licenses/agpl-3.0.en.html
 
 function __starship_set_job_count --description 'Set STARSHIP_JOBS using fish job groups (or legacy PIDs if toggled)'
     # To force legacy behavior (process PIDs), set this variable to "false":
