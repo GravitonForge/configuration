@@ -3,8 +3,8 @@
 * https://github.com/gcc-mirror/gcc
 * https://github.com/llvm/llvm-project
 * https://github.com/Kitware/CMake
-* https://github.com/fpc/FPCSource
 * https://github.com/netwide-assembler/nasm
+* https://github.com/fpc/FPCSource
 * https://github.com/fpc/Lazarus
 * https://github.com/fortran-lang/stdlib
 * https://github.com/flang-compiler/flang
@@ -13,9 +13,9 @@
 * https://github.com/AdaCore/ada_language_server
 * https://github.com/AdaCore/gnatstudio
 * https://github.com/freebasic/fbc
-* https://github.com/odin-lang/Odin
-* https://github.com/c3lang/c3c
 * https://github.com/carbon-language/carbon-lang
+* https://github.com/c3lang/c3c
+* https://github.com/odin-lang/Odin
 * https://github.com/rust-lang/rust
 * https://github.com/rust-lang/rust-analyzer
 * https://github.com/golang/go
@@ -25,6 +25,12 @@
 * https://github.com/fish-shell/fish-shell
 * https://github.com/nushell/nushell
 * https://github.com/shader-slang/slang
+* https://github.com/ceph/ceph
+* https://github.com/cubefs/cubefs
+* https://github.com/storj/storj
+* https://github.com/rustfs/rustfs
+* https://github.com/seaweedfs/seaweedfs
+* https://github.com/deuxfleurs-org/garage
 * https://github.com/jemalloc/jemalloc
 * https://github.com/h2o/h2o
 * https://github.com/LeelaChessZero/lc0
@@ -176,7 +182,7 @@
 * https://github.com/mongodb/mongo
 * https://github.com/etcd-io/etcd
 * https://github.com/dragonflydb/dragonfly
-* https://github.com/rivet-dev/actors
+* https://github.com/rivet-dev/rivet
 * https://github.com/flexprice/flexprice
 * https://github.com/getlago/lago
 * https://github.com/inngest/inngest

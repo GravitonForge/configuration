@@ -31,6 +31,7 @@
 * https://github.com/haiku
 * https://github.com/openbsd
 * https://github.com/NetBSD
+* https://github.com/ceph
 * https://github.com/torvalds
 * https://github.com/reactos
 * https://github.com/arduino-libraries
@@ -107,6 +108,7 @@
 * https://github.com/wolfSSL
 * https://github.com/FirebirdSQL
 * https://github.com/pjsip
+* https://github.com/storj
 * https://github.com/fltk
 * https://github.com/LMMS
 * https://github.com/webmproject
@@ -144,6 +146,7 @@
 * https://github.com/audacity
 * https://github.com/lz4
 * https://github.com/UpCloudLtd
+* https://github.com/seaweedfs
 * https://github.com/tmux
 * https://github.com/ossrs
 * https://github.com/ImageMagick
@@ -186,6 +189,7 @@
 * https://github.com/envoyproxy
 * https://github.com/PipeWire
 * https://github.com/harfbuzz
+* https://github.com/cubefs
 * https://github.com/tock
 * https://github.com/odin-lang
 * https://github.com/cherryservers
@@ -240,6 +244,7 @@
 * https://github.com/ravynsoft
 * https://github.com/openocd-org
 * https://github.com/util-linux
+* https://github.com/deuxfleurs-org
 * https://github.com/restatedev
 * https://github.com/open-feature
 * https://github.com/OpenRadioss
@@ -257,6 +262,7 @@
 * https://github.com/openmeterio
 * https://github.com/SalomePlatform
 * https://github.com/polkit-org
+* https://github.com/rustfs
 * https://github.com/openbao
 * https://github.com/eclipse-threadx
 * https://github.com/valkey-io
