@@ -247,7 +247,6 @@
 * https://github.com/deuxfleurs-org
 * https://github.com/restatedev
 * https://github.com/open-feature
-* https://github.com/OpenRadioss
 * https://github.com/GreptimeTeam
 * https://github.com/openfga
 * https://github.com/jqlang
@@ -272,4 +271,5 @@
 * https://github.com/libriscv
 * https://github.com/arm
 * https://github.com/pigweed-project
+* https://github.com/edgcpp
 
