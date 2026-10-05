@@ -169,6 +169,7 @@
 * https://github.com/intel
 * https://github.com/ostreedev
 * https://github.com/habitat-sh
+* https://github.com/solvespace
 * https://github.com/go-delve
 * https://github.com/zephyrproject-rtos
 * https://github.com/lvgl
@@ -226,6 +227,7 @@
 * https://github.com/rivet-dev
 * https://github.com/FrameworkComputer
 * https://github.com/cli
+* https://github.com/Open-Cascade-SAS
 * https://github.com/dosbox-staging
 * https://github.com/carbon-language
 * https://github.com/baresip
@@ -241,7 +243,6 @@
 * https://github.com/duckdb
 * https://github.com/PackageKit
 * https://github.com/ydb-platform
-* https://github.com/ravynsoft
 * https://github.com/openocd-org
 * https://github.com/util-linux
 * https://github.com/deuxfleurs-org
@@ -261,6 +262,7 @@
 * https://github.com/openmeterio
 * https://github.com/SalomePlatform
 * https://github.com/polkit-org
+* https://github.com/dune3d
 * https://github.com/rustfs
 * https://github.com/openbao
 * https://github.com/eclipse-threadx
