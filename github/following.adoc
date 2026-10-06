@@ -227,7 +227,6 @@
 * https://github.com/rivet-dev
 * https://github.com/FrameworkComputer
 * https://github.com/cli
-* https://github.com/Open-Cascade-SAS
 * https://github.com/dosbox-staging
 * https://github.com/carbon-language
 * https://github.com/baresip
@@ -273,5 +272,6 @@
 * https://github.com/libriscv
 * https://github.com/arm
 * https://github.com/pigweed-project
+* https://github.com/smol-machines
 * https://github.com/edgcpp
 
