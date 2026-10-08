@@ -1,7 +1,0 @@
-= Source Code Forges
-
-* https://codeberg.org/
-* https://gitea.com/
-* https://gitlab.com/
-* https://github.com/en
-

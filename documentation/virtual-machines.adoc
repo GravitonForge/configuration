@@ -1,6 +1,0 @@
-= VIrtual Machines
-
-* https://qemu.org/
-* Firecracker MicroVMs
-* http://lima-vm.io/
-

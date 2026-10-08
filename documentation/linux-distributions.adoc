@@ -1,8 +1,0 @@
-= Linux Distributions
-
-* https://www.debian.org/
-* https://www.gentoo.org/
-* https://fedoraproject.org/
-* https://www.archlinux.org/
-* https://voidlinux.org/
-

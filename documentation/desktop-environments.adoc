@@ -1,5 +1,0 @@
-= Desktop Environments
-
-* https://kde.org/
-* https://gnome.org/
-

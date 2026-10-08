@@ -1,6 +1,0 @@
-= Software Marketplaces
-
-* https://store.steampowered.com/
-* https://itch.io/
-* https://ko-fi.com/
-
