@@ -1,10 +1,4 @@
-:GitHubOrganization: https://github.com/GravitonForge
-:GitHubProfile: https://github.com/StructPoltergeist
-
 = Configuration
 
 Development Environment Configuration
-
-* {GitHubOrganization}[Organization]
-* {GitHubProfile}[Profile]
 
